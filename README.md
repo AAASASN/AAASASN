@@ -1,6 +1,6 @@
 ## 👋 Привет, меня зовут Александр!
 ## 🤔 Разрабатываю под iOS, позиционирую себя как бодрого Джуна. 
-- 📱 Ищу позицию младшего iOS разработчика
+- 📱 Ищу: позицию младшего iOS разработчика
 - 🕰 Занятость:  full time
 - 📍Город: Москва, Анталия, готов к релокации при необходимости
 - 📅 Формат работы: офис, удалёнка
@@ -11,7 +11,7 @@
 Swift, Foundation, UIKit, Lifecycle, ARC / Human Interface Guidelines / InterfaceBuilder (Storyboard), XIB, NIB, AutoLayout, Вёрстка кодом, CALayer, CGAffineTransform / UserDefaults, CoreData / URLSession, JSON / MVC / Thread, GCD & DispatchQueue, Operation & OperationQueue / Delegate, Observer, Singleton, Builder, Fabric, Adapter, Facade / OOP, POP, SOLID, DRY, KISS / Git, GitHub, Terminal / Figma / CocoaPods
 
 ## 🌱 Осваиваю:
-GitFlow / Carthage / Firebase, Realm / Alamifire, HTTP, CGI, REST API / MVP/MVVM / Jira, Trello / Refactoring, Code review / SnapKit
+GitFlow / Carthage / Firebase, Realm / Alamifire, HTTP, CGI, REST API / MVP, MVVM / Jira, Trello / Refactoring, Code review / SnapKit
 
 ## 🔭 На очереди:
 Unit/UI Testing, XCTest / TestFlight / Dispatching, Codable, Push Notifications, Sketch, Agile, SwiftUI, SSZipArchive / MVVM+RxSwift, Combine, VIPER/Generamba & Templates, CleanSwift/ Vapor
@@ -25,7 +25,8 @@ Unit/UI Testing, XCTest / TestFlight / Dispatching, Codable, Push Notifications,
 - Адекватно воспринимаю критику
 - Готов выполнить любое тестовое задание
 
-## ☎️ Ссылки:
+## ☎️ Контакты:
+- maraenko@gmail.com
 - https://t.me/Alexander_Maraenko
 - https://www.linkedin.com/in/alexander-maraenko-64a3252b/
 - https://github.com/AAASASN
